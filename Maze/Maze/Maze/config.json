@@ -1,0 +1,26 @@
+{
+    "base_size": 7,
+    "growth_rate": 2,
+    "monster_rules": [
+        {
+            "min_size": 0,
+            "min_monsters": 1,
+            "max_monsters": 2
+        },
+        {
+            "min_size": 21,
+            "min_monsters": 2,
+            "max_monsters": 4
+        },
+        {
+            "min_size": 31,
+            "min_monsters": 3,
+            "max_monsters": 6
+        },
+        {
+            "min_size": 41,
+            "min_monsters": 4,
+            "max_monsters": 8
+        }
+    ]
+}
